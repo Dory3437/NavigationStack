@@ -14,10 +14,7 @@ struct ContentView: View {
             VStack {
                 Text("This is the root view🌳")
                 
-                
-                
-                
-            }.toolbar {
+    }.toolbar {
                 
                 ToolbarItemGroup(placement: .status) {
                     
